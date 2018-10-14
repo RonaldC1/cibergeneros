@@ -11,6 +11,10 @@ Número de vehículos matriculados en Ecuador 2016
 <div>
 <iframe id="datawrapper-chart-4tjQU" src="//datawrapper.dwcdn.net/4tjQU/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["4tjQU"]={},window.datawrapper["4tjQU"].embedDeltas={"100":533.0208339999999,"200":453.020834,"300":426.020834,"400":426.020834,"500":400.020834,"700":400.020834,"800":400.020834,"900":400.020834,"1000":400.020834},window.datawrapper["4tjQU"].iframe=document.getElementById("datawrapper-chart-4tjQU"),window.datawrapper["4tjQU"].iframe.style.height=window.datawrapper["4tjQU"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["4tjQU"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("4tjQU"==b)window.datawrapper["4tjQU"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script></div>
 
+Histograma de densidad
+<div>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQq7A-NN2OKwTzntc481NnmpshuXYkHGGDFlB2WCGkLQFP73ZdHIFF43EEzOp5jhGwDRrWIxfM28WY1/pubchart?oid=1457665340&amp;format=interactive"></iframe></div>
+
 You can use the [editor on GitHub](https://github.com/RonaldC1/cibergeneros/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
