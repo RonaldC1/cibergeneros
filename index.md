@@ -6,7 +6,11 @@ Número de vehículos matriculados en Ecuador 2016
 
 <div>
 <iframe id="datawrapper-chart-3sSz1" src="//datawrapper.dwcdn.net/3sSz1/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="500"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["3sSz1"]={},window.datawrapper["3sSz1"].embedDeltas={"100":608,"200":581,"300":527,"400":527,"500":500,"700":500,"800":500,"900":500,"1000":500},window.datawrapper["3sSz1"].iframe=document.getElementById("datawrapper-chart-3sSz1"),window.datawrapper["3sSz1"].iframe.style.height=window.datawrapper["3sSz1"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["3sSz1"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("3sSz1"==b)window.datawrapper["3sSz1"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script></div>
-  
+
+19 jurisdicciones investigadas por los Panama Papers
+<div>
+<iframe id="datawrapper-chart-4tjQU" src="//datawrapper.dwcdn.net/4tjQU/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["4tjQU"]={},window.datawrapper["4tjQU"].embedDeltas={"100":533.0208339999999,"200":453.020834,"300":426.020834,"400":426.020834,"500":400.020834,"700":400.020834,"800":400.020834,"900":400.020834,"1000":400.020834},window.datawrapper["4tjQU"].iframe=document.getElementById("datawrapper-chart-4tjQU"),window.datawrapper["4tjQU"].iframe.style.height=window.datawrapper["4tjQU"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["4tjQU"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("4tjQU"==b)window.datawrapper["4tjQU"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script></div>
+
 You can use the [editor on GitHub](https://github.com/RonaldC1/cibergeneros/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
